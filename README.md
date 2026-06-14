@@ -61,7 +61,7 @@ InsightFOX/
 
 ```bash
 # Clone the repository
-git clone https://github.com/krishnam229/InsightFOX.git
+git clone https://github.com/krishnamaniyar2209/InsightFOX.git
 cd InsightFOX
 
 # (Optional) Create virtual environment
@@ -126,13 +126,14 @@ streamlit run app.py
 
 ## 👨‍💻 Contributors
 
-- Krishna Kirit Maniyar [@krishnam229](https://github.com/krishnam229)
+- Krishna Kirit Maniyar [@krishnamaniyar2209](https://github.com/krishnamaniyar2209)
 
 ---
 
 ## 📬 Contact
 
-📧 maniyarkrishna5@gmail.com  
+📧 krishnamaniyarkm22@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/krishnamaniyar/) · [Portfolio](https://krishnamaniyar2209.github.io/)  
 📘 Created for Pace University | MS in Data Science
 
 ---

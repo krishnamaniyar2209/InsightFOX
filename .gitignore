@@ -51,3 +51,8 @@ docker-compose*.local.yml
 Thumbs.db
 ehthumbs.db
 Desktop.ini
+
+# IDE / generated
+.idea/
+output.mp3
+*.mp3
